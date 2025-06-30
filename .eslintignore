@@ -1,0 +1,4 @@
+# تجاهل ملفات prisma runtime و generated types
+src/generated/
+node_modules/.prisma/
+node_modules/
